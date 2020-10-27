@@ -1,0 +1,97 @@
+.bgrd {
+	background-color: rgb(231, 231, 231);
+}
+.bgrd1 {
+	background-color: rgb(231, 231, 231);
+	display: flex;
+	justify-content: center;
+}
+.theBox {
+	width: 500px;
+	height: 730px;
+	background-color: white;
+	border: 1px solid grey;
+	border-radius: 3px;
+}
+
+.profileIcon {
+	padding: 10px;
+}
+
+.topOfThe {
+	display: flex;
+	flex-direction: row;
+}
+
+.topHalf {
+	margin-top: 8px;
+	font-size: 14px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+.bottomHalf {
+	margin-top: 0px;
+	font-size: 14px;
+}
+.separateThem {
+	display: flex;
+	justify-content: space-between;
+}
+.tripleDot {
+	padding: 10px;
+}
+.mainImage {
+	width: 100%;
+}
+.threeIcons {
+	padding: 10px;
+}
+.bookmark {
+	padding: 10px;
+}
+.separateThemToo {
+	display: flex;
+	justify-content: space-between;
+}
+.likedBy {
+	display: flex;
+	flex-direction: row;
+}
+.profileIcon2 {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.likedByWords {
+	display: flex;
+	padding: 5px;
+	font-size: 14px;
+}
+.bolderWord {
+	font-weight: bold;
+}
+.nextWords {
+	display: flex;
+
+	font-size: 14px;
+	padding-left: 10px;
+}
+.whenBro {
+	padding-left: 10px;
+	padding-top: 4px;
+	font-size: 10px;
+	color: grey;
+}
+.lastThing {
+	display: flex;
+	justify-content: space-between;
+	font-size: 14px;
+	opacity: 0.5;
+}
+.addComment {
+	padding-left: 10px;
+}
+.postThingy {
+	padding-right: 10px;
+	color: rgb(66, 138, 206);
+	font-weight: bold;
+}
